@@ -1,0 +1,1 @@
+You will start with index.html and then just follow the embedded links in the webpages once you hit the schedule you will go through the days chronologically until you finish them
